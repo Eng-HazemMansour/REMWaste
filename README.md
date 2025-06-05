@@ -3,8 +3,7 @@
 A modern React application for skip hire services with a focus on user experience and responsive design.
 
 ## Live Demo
-[View Live Demo](https://codesandbox.io/p/github/Eng-HazemMansour/REMWaste) (Coming soon)
-
+[View Live Demo](https://codesandbox.io/p/github/Eng-HazemMansour/REMWaste)
 ## Features
 
 - 📱 Responsive design that works on all devices
@@ -98,13 +97,6 @@ yarn dev
 - [ ] Add booking history
 - [ ] Enhance skip visualization
 - [ ] Add real-time availability updates
-
-## Testing
-
-To run the tests:
-\`\`\`
-yarn test
-\`\`\`
 
 ## Contributing
 
