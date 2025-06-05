@@ -54,18 +54,18 @@ A modern React application for skip hire services with a focus on user experienc
 
 ### Installation
 1. Clone the repository:
-\`\`\`bash
+\`\`\`
 git clone https://github.com/Eng-HazemMansour/REMWaste.git
 \`\`\`
 
 2. Install dependencies:
-\`\`\`bash
+\`\`\`
 cd REMWaste
 yarn install
 \`\`\`
 
 3. Start the development server:
-\`\`\`bash
+\`\`\`
 yarn dev
 \`\`\`
 
@@ -102,7 +102,7 @@ yarn dev
 ## Testing
 
 To run the tests:
-\`\`\`bash
+\`\`\`
 yarn test
 \`\`\`
 
